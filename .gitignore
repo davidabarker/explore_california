@@ -1,5 +1,6 @@
 .DS_Store
 tmpfile.txt
+tempfile2.txt
 *.zip
 *.gz
 log/*.log
